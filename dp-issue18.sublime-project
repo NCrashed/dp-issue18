@@ -10,7 +10,7 @@
     {
       "name": "Stack",
       "working_dir": "${project_path}",
-      "shell_cmd": "stack install"    
+      "shell_cmd": "stack install --profile"    
     }
   ]
 }
